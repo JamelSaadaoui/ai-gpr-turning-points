@@ -1,0 +1,13 @@
+model,outcome,event,horizons,primary_covariance,primary_wald_chi2,primary_df,primary_p_value
+single,lwti,military_conflict,"0,6,12,24,36,48",HC3,11.7398131439,6,0.0680314157908
+single,lwti,diplomatic_tension,"0,6,12,24,36,48",HC3,19.841638426,6,0.00295494678451
+single,lwti,nuclear_threat,"0,6,12,24,36,48",HC3,6.68654407231,6,0.350810332292
+joint,lwti,military_conflict,"0,6,12,24,36,48",HC3,9.83712559662,6,0.131680715719
+joint,lwti,diplomatic_tension,"0,6,12,24,36,48",HC3,15.9374415554,6,0.0140937118613
+joint,lwti,nuclear_threat,"0,6,12,24,36,48",HC3,10.858577269,6,0.0928468537664
+single,lbrent,military_conflict,"0,6,12,24,36,48",HC3,8.94343023015,6,0.176784600128
+single,lbrent,diplomatic_tension,"0,6,12,24,36,48",HC3,18.1905010006,6,0.00577334762173
+single,lbrent,nuclear_threat,"0,6,12,24,36,48",HC3,8.04131906437,6,0.235091773075
+joint,lbrent,military_conflict,"0,6,12,24,36,48",HC3,7.84210562759,6,0.249900832462
+joint,lbrent,diplomatic_tension,"0,6,12,24,36,48",HC3,14.7868537139,6,0.0219808968051
+joint,lbrent,nuclear_threat,"0,6,12,24,36,48",HC3,12.4111012146,6,0.0534014589141

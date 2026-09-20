@@ -1,0 +1,26 @@
+{
+  "fig01_all_variables": {
+    "title": "Variables used in the analysis",
+    "notes": "Monthly observations on a complete calendar. The unavailable October 2025 CPI deflator is filled by log-linear interpolation; no oil-price observation is interpolated. Panels (a)–(e) show log real WTI, log real Brent, log world industrial production, log world oil production, and oil-production growth (the first difference of log production). Panels (f)–(n) show log(1 + index) for aggregate AI-GPR, military conflict, diplomatic tension, terrorism, civil war, nuclear threats, coups or regime changes, sanctions, and other events. Each panel has its own vertical scale."
+  },
+  "fig02_turning_points": {
+    "title": "Geopolitical turning-point instruments",
+    "notes": "Second differences of the raw aggregate and category-specific AI-GPR indices, Z_t = G_t − 2G_{t−1} + G_{t−2}. The filter is applied before estimation and is not a threshold-based event selection. Panel order follows the nine geopolitical categories in Figure 1. Vertical scales differ across panels."
+  },
+  "fig03_brent_separate_irfs": {
+    "title": "Real Brent responses to geopolitical turning-point variation",
+    "notes": "Separate lag-augmented IV local projections for the aggregate AI-GPR index and each event category. Responses equal 100 × log(1.10) × the estimated coefficient and therefore express log-price changes multiplied by 100 for a 10% rise in 1 + index. Dark and light shading indicate pointwise 90% and 95% heteroskedasticity-robust HC3 confidence intervals without a HAC correction. Horizons are months after the instrument date. The specification includes three lags of the log oil price, two lags of log industrial production, two lags of oil-production growth, and two lags of the relevant log(1 + index). Panel order matches Figure 2; vertical scales differ."
+  },
+  "fig03_wti_separate_irfs": {
+    "title": "Real WTI responses to geopolitical turning-point variation",
+    "notes": "The specification, panel order, normalization, and pointwise confidence intervals match the Brent figure, with real WTI as the outcome."
+  },
+  "fig04_joint_irfs": {
+    "title": "Joint responses to military conflict diplomatic tension and nuclear threats",
+    "notes": "Joint lag-augmented IV local projections instrument the three log(1 + category index) treatments with their corresponding raw second differences. Rows show military conflict, diplomatic tension, and nuclear threats; the left column shows real Brent and the right column real WTI. All six lagged geopolitical regressors are included. Responses and heteroskedasticity-robust HC3 confidence intervals use the same normalization as the separate-model figures. Vertical scales are common within each row."
+  },
+  "figS01_mechanism_irfs": {
+    "title": "World activity and oil-production responses to principal geopolitical turning points",
+    "notes": "Joint lag-augmented IV local projections. Rows show military conflict, diplomatic tension, and nuclear threats. The left column reports log world industrial production; the right column reports the first difference of log global oil production. The dependent variable receives three lags, while the other oil-market fundamentals, real Brent, and each geopolitical treatment receive two lags. Responses equal 100 × log(1.10) × the coefficient. Shading gives pointwise 90% and 95% HC3 intervals. These estimates provide channel evidence but are not a formal mediation decomposition."
+  }
+}

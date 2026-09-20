@@ -1,0 +1,9 @@
+# Frozen versions used for the validated numerical analysis (Python 3.12).
+numpy==2.3.5
+pandas==2.2.3
+matplotlib==3.10.8
+openpyxl==3.1.5
+pillow==12.3.0
+# Rebuilding the Word manuscript from its included source.
+python-docx==1.2.0
+lxml==6.1.1

@@ -1,0 +1,27 @@
+model,outcome,event,null,covariance,wald_chi2,df,p_value
+single,lwti,gpr_ai,theta_h0 = theta_h1 = 0,HC3,1.36726590424,2,0.504779816297
+single,lwti,military_conflict,theta_h0 = theta_h1 = 0,HC3,1.27305463118,2,0.529126727358
+single,lwti,diplomatic_tension,theta_h0 = theta_h1 = 0,HC3,1.33318974726,2,0.513453980129
+single,lwti,terrorism,theta_h0 = theta_h1 = 0,HC3,3.59287189209,2,0.165889073479
+single,lwti,civil_war,theta_h0 = theta_h1 = 0,HC3,8.91558465521,2,0.0115879173949
+single,lwti,nuclear_threat,theta_h0 = theta_h1 = 0,HC3,1.47080764726,2,0.479311862432
+single,lwti,coup,theta_h0 = theta_h1 = 0,HC3,0.338024876578,2,0.844498399206
+single,lwti,sanctions,theta_h0 = theta_h1 = 0,HC3,0.141553214562,2,0.931669997176
+single,lwti,other,theta_h0 = theta_h1 = 0,HC3,1.21399361036,2,0.544985110333
+joint,lwti,military_conflict,theta_h0 = theta_h1 = 0,HC3,1.54191291985,2,0.462570426585
+joint,lwti,diplomatic_tension,theta_h0 = theta_h1 = 0,HC3,1.17791165281,2,0.554906400944
+joint,lwti,nuclear_threat,theta_h0 = theta_h1 = 0,HC3,2.3885458644,2,0.302924120509
+joint,lwti,all_three,all six pre-event coefficients = 0,HC3,4.91432631524,6,0.5548475487
+single,lbrent,gpr_ai,theta_h0 = theta_h1 = 0,HC3,1.91859027151,2,0.383162868619
+single,lbrent,military_conflict,theta_h0 = theta_h1 = 0,HC3,0.886769770906,2,0.641860116918
+single,lbrent,diplomatic_tension,theta_h0 = theta_h1 = 0,HC3,1.7762833644,2,0.411419591155
+single,lbrent,terrorism,theta_h0 = theta_h1 = 0,HC3,4.14785078412,2,0.125691423948
+single,lbrent,civil_war,theta_h0 = theta_h1 = 0,HC3,15.6347656235,2,0.000402674179037
+single,lbrent,nuclear_threat,theta_h0 = theta_h1 = 0,HC3,1.26672211696,2,0.530804733718
+single,lbrent,coup,theta_h0 = theta_h1 = 0,HC3,0.700666555183,2,0.704453272101
+single,lbrent,sanctions,theta_h0 = theta_h1 = 0,HC3,0.354286256539,2,0.837659883133
+single,lbrent,other,theta_h0 = theta_h1 = 0,HC3,1.25675773631,2,0.533455902758
+joint,lbrent,military_conflict,theta_h0 = theta_h1 = 0,HC3,1.1429322057,2,0.564696927731
+joint,lbrent,diplomatic_tension,theta_h0 = theta_h1 = 0,HC3,1.47587312101,2,0.47809942764
+joint,lbrent,nuclear_threat,theta_h0 = theta_h1 = 0,HC3,1.78920810882,2,0.408769417052
+joint,lbrent,all_three,all six pre-event coefficients = 0,HC3,4.43759015226,6,0.617678394883

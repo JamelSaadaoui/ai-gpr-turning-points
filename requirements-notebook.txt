@@ -1,0 +1,6 @@
+# Optional frontend dependencies. These are not installed in the validation
+# environment and therefore are intentionally not represented as tested pins.
+nbformat>=5
+nbclient>=0.10
+ipykernel>=6
+jupyterlab>=4

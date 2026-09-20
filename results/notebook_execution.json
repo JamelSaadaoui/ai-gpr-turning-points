@@ -1,0 +1,8 @@
+{
+  "method": "Sequential code-cell execution in a fresh Python process; no Jupyter kernel",
+  "status": "passed",
+  "code_cells": 19,
+  "elapsed_seconds": 55.756,
+  "python": "3.12.14",
+  "completed_utc": "2026-09-20T03:03:40.159987+00:00"
+}

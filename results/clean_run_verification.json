@@ -1,0 +1,52 @@
+{
+  "preexisting_results": false,
+  "execution_method": "Fresh Python process for every command; sequential notebook code cells, not a Jupyter kernel",
+  "commands": {
+    "notebook": {
+      "returncode": 0,
+      "seconds": 59
+    },
+    "tests": {
+      "returncode": 0,
+      "seconds": 10
+    },
+    "paper": {
+      "returncode": 0,
+      "seconds": 1
+    }
+  },
+  "identical_numeric_tables": [
+    "anticipation.csv",
+    "anticipation_joint_tests.csv",
+    "ar_confidence_sets.csv",
+    "baseline_iv.csv",
+    "cross_category_equality.csv",
+    "endpoints.csv",
+    "event_drop.csv",
+    "first_stage.csv",
+    "hac_bandwidth.csv",
+    "inference_comparison.csv",
+    "joint_ar_projection_intervals.csv",
+    "joint_identification.csv",
+    "lag_sensitivity.csv",
+    "leverage.csv",
+    "log_curvature.csv",
+    "mechanism_iv.csv",
+    "mechanism_simultaneous_bands.csv",
+    "origin_splits.csv",
+    "path_wald.csv",
+    "production_control.csv",
+    "simultaneous_bands.csv",
+    "summary_statistics.csv",
+    "sw_conditional_first_stage.csv"
+  ],
+  "independent_tests_passed": 49,
+  "baseline_inference": "HC3 without HAC",
+  "conventional_comparison": "Two price lags and NW6, matched observations",
+  "executed_code_cells": 19,
+  "native_math_objects": 50,
+  "embedded_figures": 6,
+  "paper_content_rebuild_identical": true,
+  "status": "passed",
+  "validation_date": "2026-09-19"
+}

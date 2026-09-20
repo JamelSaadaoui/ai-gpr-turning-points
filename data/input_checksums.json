@@ -1,0 +1,10 @@
+{
+  "source_csv/ai_gpr_event_types_snapshot.csv": "066c36356cfc1adae5419112334af8268b1e84243c14d41ef2eba9937d68c482",
+  "source_csv/bls_cpi_allitems.txt": "6375deba6b0d98543add9934c25165544c61d7458987e4e6e2c74edc83f811b8",
+  "source_csv/eia_brent_monthly.json": "794416665e8b6e3694e8beaec2625d76a32c31ff20ee902e5a80610a57ad7657",
+  "source_csv/eia_wti_monthly.json": "8d55bd054ed2d72e1e0bcdfae147f022e6ad9aa27a2c90082ccaf5ec734e246e",
+  "source_csv/world_crude_oil_production.json": "8e124ea739066aaab17c3c10b8c05fb24e8a7d8e72ca374fb018bbf10f531e2f",
+  "source_csv/world_industrial_production.xlsx": "7692e552642da9c1604c35808446723e502cc8d17cb65064325b8e180a7b8d8c",
+  "current_source_merge.csv": "54be8ab244391862cd8a482e129f9649678f0a900b148920e6a8e2abe302fb82",
+  "monthly_data.csv": "155aaeb47154f01ea87411e10ba1f7f954f9a7a7b3f4a13ca61d223830c33c7b"
+}

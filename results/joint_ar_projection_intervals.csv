@@ -1,0 +1,25 @@
+model,outcome,horizon,n,event,beta,coverage,lower,upper,contains_zero,joint_test_df,joint_critical_value,covariance,method
+joint,lwti,0,432,military_conflict,0.0713456273969,0.95,0.00156909177628,0.185008642703,False,3,7.81472790325,HC3,projection of profiled joint Anderson-Rubin region
+joint,lwti,0,432,diplomatic_tension,0.0354198250985,0.95,-0.0549385913624,0.136814246935,True,3,7.81472790325,HC3,projection of profiled joint Anderson-Rubin region
+joint,lwti,0,432,nuclear_threat,0.0304570180382,0.95,-0.0125434900616,0.0801335846092,True,3,7.81472790325,HC3,projection of profiled joint Anderson-Rubin region
+joint,lwti,12,425,military_conflict,-0.0163787099009,0.95,-0.165327768135,0.149319692896,True,3,7.81472790325,HC3,projection of profiled joint Anderson-Rubin region
+joint,lwti,12,425,diplomatic_tension,-0.187825957335,0.95,-0.414166683738,0.0523836790162,True,3,7.81472790325,HC3,projection of profiled joint Anderson-Rubin region
+joint,lwti,12,425,nuclear_threat,0.0926260778176,0.95,-0.027348609285,0.219319919496,True,3,7.81472790325,HC3,projection of profiled joint Anderson-Rubin region
+joint,lwti,24,413,military_conflict,-0.0161406549078,0.95,-0.221027360072,0.192533746001,True,3,7.81472790325,HC3,projection of profiled joint Anderson-Rubin region
+joint,lwti,24,413,diplomatic_tension,-0.309666592153,0.95,-0.595003216448,-0.0144856335948,False,3,7.81472790325,HC3,projection of profiled joint Anderson-Rubin region
+joint,lwti,24,413,nuclear_threat,0.106967260478,0.95,-0.0183098139848,0.235684397732,True,3,7.81472790325,HC3,projection of profiled joint Anderson-Rubin region
+joint,lwti,48,389,military_conflict,0.0179249981484,0.95,-0.176145918338,0.389369165248,True,3,7.81472790325,HC3,projection of profiled joint Anderson-Rubin region
+joint,lwti,48,389,diplomatic_tension,-0.209689289131,0.95,-0.537999200009,0.166379440351,True,3,7.81472790325,HC3,projection of profiled joint Anderson-Rubin region
+joint,lwti,48,389,nuclear_threat,-0.000346287268343,0.95,-0.148164942368,0.148741954575,True,3,7.81472790325,HC3,projection of profiled joint Anderson-Rubin region
+joint,lbrent,0,432,military_conflict,0.0690836669071,0.95,-0.0157083242265,0.198831538701,True,3,7.81472790325,HC3,projection of profiled joint Anderson-Rubin region
+joint,lbrent,0,432,diplomatic_tension,0.030069170599,0.95,-0.0626787156625,0.137996765618,True,3,7.81472790325,HC3,projection of profiled joint Anderson-Rubin region
+joint,lbrent,0,432,nuclear_threat,0.0353208633536,0.95,-0.00956717483464,0.0897717232281,True,3,7.81472790325,HC3,projection of profiled joint Anderson-Rubin region
+joint,lbrent,12,425,military_conflict,-0.0182704641694,0.95,-0.173335328095,0.157477859073,True,3,7.81472790325,HC3,projection of profiled joint Anderson-Rubin region
+joint,lbrent,12,425,diplomatic_tension,-0.172793478851,0.95,-0.416487199593,0.0856442803715,True,3,7.81472790325,HC3,projection of profiled joint Anderson-Rubin region
+joint,lbrent,12,425,nuclear_threat,0.0975898741734,0.95,-0.0329503084039,0.235677599209,True,3,7.81472790325,HC3,projection of profiled joint Anderson-Rubin region
+joint,lbrent,24,413,military_conflict,-0.0190115581299,0.95,-0.236382947924,0.205054954514,True,3,7.81472790325,HC3,projection of profiled joint Anderson-Rubin region
+joint,lbrent,24,413,diplomatic_tension,-0.309148286957,0.95,-0.612765740378,0.00415374684823,True,3,7.81472790325,HC3,projection of profiled joint Anderson-Rubin region
+joint,lbrent,24,413,nuclear_threat,0.1235374338,0.95,-0.011719624314,0.264004939358,True,3,7.81472790325,HC3,projection of profiled joint Anderson-Rubin region
+joint,lbrent,48,389,military_conflict,0.0153016938346,0.95,-0.195464441961,0.38945293,True,3,7.81472790325,HC3,projection of profiled joint Anderson-Rubin region
+joint,lbrent,48,389,diplomatic_tension,-0.238385797094,0.95,-0.579200267486,0.143008763245,True,3,7.81472790325,HC3,projection of profiled joint Anderson-Rubin region
+joint,lbrent,48,389,nuclear_threat,0.00870157054723,0.95,-0.141588658513,0.160896880018,True,3,7.81472790325,HC3,projection of profiled joint Anderson-Rubin region
